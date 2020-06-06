@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Kotlin Notes</string>
+    <string name="desc">Task</string>
+    <string name="save_note">Save Note</string>
+    <string name="title">Title</string>
+    <string name="color">Color</string>
+    <string name="logout">Logout</string>
+</resources>
